@@ -1,21 +1,14 @@
-.block2 {margin-top:7px;border-left:3px solid #bcabc1;width:238.5px;height:25px;background:#f5f5f5;} 
-
-.block3 {margin-top:7px;border-right:3px solid #bcabc1;width:238.5px;height:25px;background:#f5f5f5;} 
-
-.bloup {font-family: Playfair display;font-size: 10px;text-align: center;text-transform: lowercase;overflow:auto;height:20px;padding-top:5px;} 
-
-.one {margin-left:10px;background:#fff;border:0.5px solid #d6d6d6;width:225px;height:115px;overflow:auto;text-align:justify;padding:10px;padding-left:15px;padding-right:15px;font-size:10px;}
-.two {margin-left:10px;background:#fff;border:0.5px solid #d6d6d6;width:225px;height:109px;overflow:auto;text-align:justify;padding:10px;padding-left:15px;padding-right:15px;font-size:10px;} 
-.barre {width:6px;height:325px;margin-left:10px;display:inline-block;background: #FFF;} .vava {margin-left:4px;display:block;width:160px;border:1px solid #efefef;padding:7px;height:269px;object-fit:cover;background-color:#f5f5f5;} 
-.three {margin-left:3px;background:#fff;border:0.5px solid #d6d6d6;width:360px;height:250px;margin-top:5px;overflow:auto;text-align:justify;padding:10px;padding-left:15px;padding-right:15px;font-size:10px;} 
-.four {margin-left:10px;background:#fff;border:0.5px solid #d6d6d6;width:225px;height:125px;overflow:auto;text-align:justify;padding:10px;padding-left:15px;padding-right:15px;font-size:10px;} 
-.five {margin-left:2px;display:block;width:160px;border:1px solid #efefef;padding:7px;height:115px;overflow:auto;object-fit:cover;background-color:#fff;font-size:10px;} 
+.cherry {margin-top:7px;border-left:3px solid var(--coloraccent1)!important;width:238.5px;height:25px;background:#f5f5f5;} 
+.bomb {margin-top:7px;border-right:3px solid var(--coloraccent2)!important;width:238.5px;height:25px;background:#f5f5f5;} 
+.maniac {font-family: Playfair display;font-size: 10px;text-align: center;text-transform: lowercase;overflow:auto;height:20px;padding-top:5px;} 
+.ladida {margin-left:10px;background:#fff;border:0.5px solid #d6d6d6;width:225px;height:115px;overflow:auto;text-align:justify;padding:10px;padding-left:15px;padding-right:15px;font-size:10px;} 
+.queendom {margin-left:10px;background:#fff;border:0.5px solid #d6d6d6;width:225px;height:109px;overflow:auto;text-align:justify;padding:10px;padding-left:15px;padding-right:15px;font-size:10px;} 
+.door {width:6px;height:325px;margin-left:10px;display:inline-block;background: #FFF;} .cheese {margin-left:4px;display:block;width:160px;border:1px solid #efefef;padding:7px;height:269px;object-fit:cover;background-color:#f5f5f5;} 
+.outsider {margin-left:3px;background:#fff;border:0.5px solid #d6d6d6;width:360px;height:281.5px;margin-top:5px;overflow:auto;text-align:justify;padding:10px;padding-left:15px;padding-right:15px;font-size:10px;}
+.dumb {margin-left:10px;background:#fff;border:0.5px solid #d6d6d6;width:225px;height:125px;overflow:auto;text-align:justify;padding:10px;padding-left:15px;padding-right:15px;font-size:10px;} 
+.splash {margin-left:2px;display:block;width:160px;border:1px solid #efefef;padding:7px;height:115px;overflow:auto;object-fit:cover;background-color:#fff;font-size:10px;} 
 .aes {width:162px;height:100px;padding:5px;object-fit:cover;border:1px solid #efefef;margin-left:3px;} 
-.carreun {float:center;position:relative;top:-34px;margin-right:20px;background:#b487a9;height:30px;transform: rotate(45deg);transition: .8s all;width:30px;} 
-.carredeux {float:center;position:relative;top:-34px;background:#b487a9;height:30px;transform: rotate(45deg);transition: .8s all;width:30px;}
-.carretrois {float:center;position:relative;top:-34px;margin-left:20px;background:#b487a9;height:30px;transform: rotate(45deg);transition: .8s all;width:30px;} 
-.bandeau {border-left:3px solid #bcabc1;width:482px;height:100px;background:#f5f5f5;} .titre {font-weight:800;font-size:25px;font-family: 'Abril Fatface', cursive;color:#fff;background-image:linear-gradient(-90deg,#b487a9,#aaa0b8);background-clip: text;-webkit-background-clip: text;color: transparent;text-transform:uppercase;padding-top:30px;} 
-.quote {margin: auto;background: #aaa0b8!important;color: #FFF;font-family: arial black;font-size: 7px!important;margin-top: -4px;letter-spacing: 1px;padding: 2px;text-transform: uppercase;} 
-.image {border: 3px solid #b487a9;filter: grayscale(50%);float: right;height: 50px;margin-left: 213px;margin-right: 12px;margin-top: -25px;overflow: hidden;position: absolute;transform: rotate(45deg);transition: .8s all;width: 50px;} 
-
-.line {background: linear-gradient(-90deg,#ddb1f3,#9d65b8);width: 300px;height:1px;margin-top: -8;}
+.thrill {float:center;position:relative;top:-34px;margin-right:20px;background:var(--coloraccent1)!important;height:30px;transform: rotate(45deg);transition: .8s all;width:30px;} 
+.ride {float:center;position:relative;top:-34px;background:linear-gradient(-90deg,#71a4b2,#b9606b);height:30px;transform: rotate(45deg);transition: .8s all;width:30px;} 
+.tbz {float:center;position:relative;top:-34px;margin-left:20px;background:var(--coloraccent2)!important;height:30px;transform: rotate(45deg);transition: .8s all;width:30px;} 
+.smile {border: 3px solid var(--coloraccent2)!important;float: right;height: 50px;margin-left: 213px;margin-right: 12px;margin-top: -25px;position: absolute;transform: rotate(45deg);transition: .8s all;width: 50px;}
