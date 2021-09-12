@@ -12,7 +12,6 @@
 .ride {float:center;position:relative;top:-34px;background:linear-gradient(-90deg,#71a4b2,#b9606b);height:30px;transform: rotate(45deg);transition: .8s all;width:30px;} 
 .tbz {float:center;position:relative;top:-34px;margin-left:20px;background:var(--coloraccent2)!important;height:30px;transform: rotate(45deg);transition: .8s all;width:30px;} 
 .smile {border: 3px solid var(--coloraccent2)!important;float: right;height: 50px;margin-left: 213px;margin-right: 12px;margin-top: -25px;position: absolute;transform: rotate(45deg);transition: .8s all;width: 50px;}
-
 .stereotype {background:#fff;border:0.5px solid #d6d6d6;width:420px;height:343px;overflow:auto;text-align:justify;padding:10px;padding-left:15px;padding-right:15px;font-size:10px;} 
 .ping {float:center;position:relative;top:-0.5px;margin-left:5px;border: 3px solid var(--coloraccent1)!important;height: 40px;transform: rotate(45deg);transition: .8s all;width: 40px;} 
 .pong {float:center;position:relative;top:-0.5px;margin-left:55px;border: 3px solid var(--coloraccent2)!important;height: 40px;transform: rotate(45deg);transition: .8s all;width: 40px;}
