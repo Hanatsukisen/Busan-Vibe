@@ -13,7 +13,7 @@
 .ride {float:center;position:relative;top:-34px;background:linear-gradient(-90deg,var(--coloraccent1),var(--coloraccent2));height:30px;transform: rotate(45deg);transition: .8s all;width:30px;} 
 .tbz {float:center;position:relative;top:-34px;margin-left:20px;background:var(--coloraccent2)!important;height:30px;transform: rotate(45deg);transition: .8s all;width:30px;} 
 .smile {border: 3px solid var(--coloraccent2)!important;float: right;height: 50px;margin-left: 213px;margin-right: 12px;margin-top: -32px;position: absolute;transform: rotate(45deg);transition: .8s all;width: 50px;}
-.stereotype {background:#var(--fond);border:0.5px solid var(--border6);width:420px;height:343px;overflow:auto;text-align:justify;padding:10px;padding-left:15px;padding-right:15px;font-size:10px;} 
+.stereotype {background:var(--fond);border:0.5px solid var(--border6);width:420px;height:343px;overflow:auto;text-align:justify;padding:10px;padding-left:15px;padding-right:15px;font-size:10px;} 
 .ping {float:center;position:relative;top:-0.5px;margin-left:5px;border: 3px solid var(--coloraccent1)!important;height: 40px;transform: rotate(45deg);transition: .8s all;width: 40px;} 
 .pong {float:center;position:relative;top:-0.5px;margin-left:55px;border: 3px solid var(--coloraccent2)!important;height: 40px;transform: rotate(45deg);transition: .8s all;width: 40px;}
 .loser {margin-left:1px;display:block;width:62px;border:1px solid #efefef;padding:7px;height:56px;object-fit:cover;background-color:var(--fond);} 
