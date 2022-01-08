@@ -5,7 +5,7 @@
 .queendom {color: var(--text1);margin-left:10px;background:var(--fondb);border:0.5px solid var(--border6);width:225px;height:109px;overflow:auto;text-align:justify;padding:10px;padding-left:15px;padding-right:15px;font-size:10px;} 
 .door {color: var(--text1);width:6px;height:325px;margin-left:10px;display:inline-block;background: var(--white);} 
 .cheese {margin-left:4px;display:block;width:160px;border:1px solid var(--borderwhite);padding:7px;height:269px;object-fit:cover;background-color:var(--intborder);} 
-.outsider {color: var(--text1);margin-left:3px;background:var(--fondb);border:0.5px solid var(--border6);width:360px;height:284px;margin-top:5px;overflow:auto;text-align:justify;padding:10px;padding-left:15px;padding-right:15px;font-size:10px;}
+.outsider {color: var(--text1);margin-left:3px;background:var(--fondb);border:0.5px solid var(--border6);width:360px;height:281px;margin-top:5px;overflow:auto;text-align:justify;padding:10px;padding-left:15px;padding-right:15px;font-size:10px;}
 .dumb {color: var(--text1);margin-left:10px;background:var(--fondb);border:0.5px solid var(--border6);width:225px;height:125px;overflow:auto;text-align:justify;padding:10px;padding-left:15px;padding-right:15px;font-size:10px;} 
 .splash {color: var(--text1);margin-left:2px;display:block;width:160px;border:0.5px solid var(--border6);padding:7px;height:115px;overflow:auto;object-fit:cover;background-color:var(--fondb);font-size:10px;} 
 .aes {width:162px;height:100px;padding:5px;object-fit:cover;border:1px solid var(--borderwhite);margin-left:3px;background-color:var(--intborder);} 
