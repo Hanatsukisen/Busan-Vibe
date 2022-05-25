@@ -1,20 +1,4 @@
 // Basic Reset
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: 'Rubik', sans-serif;
-  -webkit-font-smoothing: antialiased;
-}
-
-body {
-  width: 100vw;
-  height: 100vh;
-  background: #c5cae9;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
 
 .palette {
   border-radius: 2%;
