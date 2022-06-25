@@ -21,4 +21,4 @@ sstitref{font-family: roboto,sans-serif;font-size: 7px;-webkit-background-clip: 
 .fborderfond {border: 1px solid var(--color-accent); margin: 12px;}
 .tpara{border-left: 1px solid var(--color-borderi);display: block; padding-left: 12px;}
 .rimgicon{position: absolute;width: 20px;margin-left: 34px;border-radius: 20px;height: 20px;}
-.fondficheptw {font-family: arimo;font-size: 11px;background: #f9f9f9;outline: 1px solid var(--outline1);border: 2px solid #fff;overflow: auto;width: 402px;height: 34px;margin: auto;padding: 7px}
+.fondficheptw {font-family: arimo;font-size: 11px;background: #f9f9f9;outline: 1px solid var(--outline1);border: 2px solid #fff;overflow: auto;width: 387px;height: 34px;margin: auto;padding: 7px;}
