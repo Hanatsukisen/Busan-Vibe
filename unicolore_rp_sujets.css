@@ -2,7 +2,7 @@
 .fond2 {    background: #FFF;  outline: 1px solid #eeeeee;} 
 .fond3 {background : #fff; border : 2px double white; outline: 1px solid #eee; margin-top: 6px; } 
 .fond4 {background: #fafafa;  border: 1px double white;    outline: 1px solid #eeeeeeee;    margin-top: 6px;} 
-.stf {color: #ababab; font-family: arial; font-size: 7px; letter-spacing: 4px; text-align: center; text-shadow: 1px 1px #fff; text-transform: uppercase; padding: 7px} 
+.stf {color: #ababab; font-family: arial; font-size: 7px; letter-spacing: 4px; text-align: center; text-shadow: 1px 1px #fff; text-transform: uppercase; } 
 .text2 {font-family: arial; font-size: 10px; letter-spacing: 2px; text-align: justify; text-shadow: 1px 1px #fff; padding: 12px;}
 .fbordertt {border: 1px solid var(--color-accent); margin: 12px;}
 .fiche1titre {background-color: #fff; height: 30px;margin: 10px;padding: 20px 10px 10px; text-align: center;}
@@ -21,3 +21,4 @@ sstitref{font-family: roboto,sans-serif;font-size: 7px;-webkit-background-clip: 
 .fborderfond {border: 1px solid var(--color-accent); margin: 12px;}
 .tpara{border-left: 1px solid var(--color-borderi);display: block; padding-left: 12px;}
 .rimgicon{position: absolute;width: 20px;margin-left: 34px;border-radius: 20px;height: 20px;}
+.fondficheptw {font-family: arimo;font-size: 11px;background: #f9f9f9;outline: 1px solid var(--outline1);border: 2px solid #fff;overflow: auto;width: 402px;height: 34px;margin: auto;padding: 7px}
