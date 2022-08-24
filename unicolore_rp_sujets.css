@@ -5,7 +5,7 @@
 .stf {color: #ababab; font-family: arial; font-size: 7px; letter-spacing: 4px; text-align: center; text-shadow: 1px 1px #fff; text-transform: uppercase; } 
 .text2 {font-family: arial; font-size: 10px; letter-spacing: 2px; text-align: justify; text-shadow: 1px 1px #fff; padding: 12px;}
 .fbordertt {border: 1px solid var(--color-accent); margin: 12px;}
-.fiche1titre {background-color: var(--base1); height: 30px;margin: 10px;padding: 20px 10px 10px; text-align: center;}
+.fiche1titre {border: 2px double var(--borderwhite);outline: 1px solid var(--outline1);background-color: var(--base1); height: 30px;margin: 10px;padding: 20px 10px 10px; text-align: center;}
 .ttarial{font-family: arial black;text-transform: uppercase;}
 .hv4{background: var(--gradient1);width: 375px;height: 1px;margin-left: 7px;}
 sstitref{font-family: roboto,sans-serif;font-size: 7px;-webkit-background-clip: text;background-clip: text;background-image: linear-gradient(-90deg,#d46a2d,#aaaaa8);color: transparent;font-weight:800;letter-spacing: 1px;text-transform: uppercase;}
