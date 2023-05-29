@@ -26,3 +26,48 @@ sstitref{font-family: roboto,sans-serif;font-size: 7px;-webkit-background-clip: 
 .rimgicon{position: absolute;width: 20px;margin-left: 34px;border-radius: 20px;height: 20px;}
 .fondficheptw {font-family: arimo;font-size: 11px;background: var(--base1);outline: 1px solid var(--outline1);border: 2px solid var(--borderwhite);overflow: auto;width: 387px!important;;margin: auto;}
 .palf {display: inline-block;width: 20px;border-radius: 20px;height: 20px;margin-top: 3;}
+
+.fondfiche, .fondpfiche {    margin: auto;    border: 3px solid var(--borderwhite);    margin-bottom: 15px;    margin-top: 15px;    outline: 1px solid var(--outline1);    padding-left: 5px;    padding-right: 5px;    width: 455px;}
+
+.titrefiche {    background-color: rgb(249, 249, 249);    width: 425px;    text-align: center;    text-shadow: rgb(255, 255, 255) 1px 1px 0px;    text-transform: uppercase;    border-width: 2px;    border-style: solid;    border-color: rgb(255, 255, 255);    border-image: initial;    padding: 10px;    outline: rgb(211, 211, 211) solid 1px;}
+
+.stf {    color: var(--color-font1);    font-family: arial;    font-size: 7px;    letter-spacing: 4px;    text-align: center;    text-shadow: 1px 1px #fff;    text-transform: uppercase;}
+.midf {    border: 1px solid var(--borderwhite);    outline: 1px solid var(--outline1);    padding: 6px;    width: 370px;  height: 56px;  width:340px;}
+
+.midf {    background: var(--img1);}
+.midf2 {  color: var(--black1);  background-color: var(--base1);    border: 1px solid var(--borderwhite);    font-family: arimo;    font-size: 11px;    height: 42px;    outline: 1px solid var(--outline1);    overflow: auto;    padding: 6px;    text-align: justify;}
+
+.midf33 {    border: 1px solid var(--borderwhite);    margin-bottom: 4px;    outline: 1px solid var(--outline1);    padding: 6px;    width: 417px;  color: var(--black1);  height: 30px;}
+
+.midf33 {    background: var(--img1);}
+.midf3 {    background-color: var(--base1);    border: 1px solid var(--borderwhite);    font-family: arimo;    font-size: 11px;    height: 15px;    outline: 1px solid var(--outline1);    overflow: auto;    padding: 6px;    color: var(--black1);    text-align: justify;     overflow-y: hidden; }
+.intef, .liensen, .partf, .repf { background-color: #fff; border: 3px double #eee; font-family: arimo; font-size: 11px; margin-top: -15px; padding: 10px; text-align: justify;}
+
+#itfh {height: 202px;    overflow: auto;    width: 250px;}
+.fond3 {color: var(--text1); background: var(--base1); border: 1px solid var(--borderwhite); outline: 1px solid var(--outline1); margin-top: 6px;}
+ .fond2 {background: #f9f9f9; border: 1px solid white; outline: 1px solid var(--outline1);} 
+.presfiche {color: var(--black1); background-color: var(--base1);    border: 2px solid var(--borderwhite);box-shadow: 0 0 0.2px 1px #F0F0E8;font-family: arimo;font-size: 11px;outline: 1px solid var(--outline1);height: 250px;    margin: 3px;    overflow: auto;    padding: 4px;    text-align: justify;    width: 173px;    overflow-x: hidden;}
+.fondf3 {background: #f9f9f9;border: 2px solid white;outline: 1px solid var(--outline1);    margin-top: 6px;    width: 440px;}
+.fondiconsf {height: 250px; width: 60px;}
+.iconsf {border: 1px solid var(--color-borderi);height: 45px;object-fit: cover;padding: 6px;    transition: .8s;    width: 45px;}
+.aestrucfiche {color:var(--black1);  background-color: var(--base1);border: 2px solid var(--borderwhite);    box-shadow: 0 0 0.2px 1px var(--black2);    font-family: arimo;    font-size: 11px;    margin-right: 11px;    height: 71px;    outline: 1px solid var(--outline1)!important;    overflow: auto;    padding: 4px;    text-align: justify;    width: 195px;}
+.preslien {font-family: arimo;margin: 3px;padding: 4px;outline: 1px solid var(--outline1);    width: 220px;    background-color: #f9f9f9;    border: 2px solid #fff;    height: 100px;    overflow: auto;    font-size: 11px;    text-align: justify;    box-shadow: 0 0 0.2px 1px #f0f0e8;  overflow-x: hidden;}
+.preslien2 {background-color: #fff;    border: 3px double #eee;    font-family: arimo;    font-size: 11px;    margin : 3px;    padding: 4px;    text-align: justify;  width: 215px;   height: 100px;overflow: auto;   font-size: 11px; text-align: justify;box-shadow: 0px 0px 0.2px 1px #F0F0E8;}
+.ava {width: 200px; height: 320px; box-shadow: 0px 0px 0.2px 1px #F0F0E8; margin: 5px; margin-left: 2px;  border: 3px double #eee; background-color: #fff; text-align: justify; }
+
+.backBOX {background-size: 158px; /* LARGEUR DE L'IMAGE DE FOND */width: 158px; /* LARGEUR DE L'IMAGE DE FOND */height: 253px ; /* HAUTEUR DÉSIRÉE DE L'IMAGE */   box-shadow: 0px 0px 0.2px 1px var(--black2);  margin: 5px; margin-left: 2px;    border: 3px double var(--border1);  background-color: var(--borderwhite);}
+.invisibleBOX {background-color: var(--base1); /* COULEUR FOND DU TEXTE */ color : var(--text1); border: 1px solid #e1e1e1; /* PETITE BORDURE DU FOND */width: 157px; /* LARGEUR DU FOND EN ENLEVANT LES PIXELS DE LA BORDURE */height: 252px; /* HAUTEUR DU FOND EN ENLEVANT LES PIXELS DE LA BORDURE */opacity: 0; /* TRANSPARENCE DU TEXTE */transition: .25s; /* TEMPS DE TRANSITION AU SURVOL */font-family: arimo; /* TYPOGRAPHIE DU TEXTE */font-size: 11px; /* GROSSEUR DES LETTRES DU TEXTE */text-align: justify; /* ALIGNEMENT DU TEXTE *//*line-height: 25px;  HAUTEUR ENTRE LES SAUTS DE LIGNES */    overflow-y: scroll;     overflow-x: hidden; }
+.invisibleBOX:hover {opacity: .9; /* OPACITÉ DU TEXTE PRESQUE PARFAITEMENT OPAQUE */}
+
+.anectfiche {color: var(--black1); background-color: var(--base1);border: 2px solid var(--borderwhite);outline: 1px solid var(--outline1);box-shadow: 0 0 0.2px 1px #F0F0E8;font-family: arimo;font-size: 11px;height: 150px;    margin: 3px;    overflow: auto;    padding: 4px;    text-align: justify;    width: 413px;}
+
+.invisibleBOX:hover {opacity: .9; /* OPACITÉ DU TEXTE PRESQUE PARFAITEMENT OPAQUE */}
+
+.anectliens {background-color: #fff; border: 3px double #eee;font-family: arimo;font-size: 11px;margin : 3px;padding: 4px;text-align: justify;width: 438px;height: 100px;overflow: auto;font-size: 11px; text-align: justify;box-shadow: 0px 0px 0.2px 1px #F0F0E8;}
+
+.giffiche {width: 178px; height: 109px; box-shadow: 0px 0px 0.2px 1px #F0F0E8; margin: 5px; margin-left: -2px; object-fit: cover;  border: 3px double #eee;}
+.gifliens {width: 100px; height: 80px; box-shadow: 0px 0px 0.2px 1px #F0F0E8; margin: 5px; margin-left: 2px; object-fit: cover;  border: 3px double #eee;}
+
+.anectrelat {color: var(--black1); font-family: arimo; font-size: 11px; margin: 3px; padding: 4px; text-align: justify; width: 349px; background-color: var(--base1); border: 2px solid var(--borderwhite); height: 46px; box-shadow: 0 0 0.2px 1px #f0f0e8; overflow: auto; outline: 1px solid var(--outline1); font-size: 11px; text-align: justify; /* box-shadow: 0 0 0.2px 1px #f0f0e8; */ }
+
+.iconsfiche {float: left;margin-bottom: 5px;width: 53px;height: 53px;padding: 6px;border: 1px solid var(--color-borderi);transition: 0.8s;object-fit: cover;}
