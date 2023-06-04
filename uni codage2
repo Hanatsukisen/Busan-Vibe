@@ -22,6 +22,7 @@ maj1 {display: inline-flex;font-family: 'arial black';font-size: 25px;text-align
 .instacompost {color: var(--textColorAccent);height: 50px;width: 313px;background-color: var(--neutral)!important;border: 1px solid white;outline: 1px solid black;padding: 13px;text-align: justify;overflow: auto;margin: 0px auto 0px;} 
 .fbordertt {width: 350px;background: var(--neutral)!important;border: 1px solid black;color: var(--textColorAccent);margin: 10px;padding: 20px 10px 10px;text-align: center;}
 
+.codefiche1 {width:390px; color: black;border: 1px solid black;background-color: white;margin: auto;padding: 20px 10px 10px;text-align: center;}.codefiche2 {width:390px; color: black;border: 1px solid black;background-color: white;margin: auto;padding: 20px 10px 10px;text-align: justify;}.ttarial {font-family: arial black;text-transform: uppercase;}cadret1 {background: var(--gradient1);color: black;font-family: arial black;font-size: 8px;border: 1px solid #000!important;letter-spacing: 3px!important;padding: 7px;text-transform: uppercase;}ca {font-family: montserrat;font-size: 8.5px;font-weight: 700;letter-spacing: 1px;text-transform: uppercase;color: var(var(--neutralDark);}.iconsn{border: 1px solid var(--neutralDark);height: 45px;margin-right:10px;object-fit:cover;padding: 6px;width: 45px;}.tpara {border-left: 1px solid var(--neutralDark);display: block;padding-left: 12px;}
 
 /***FICHE*****/
 
