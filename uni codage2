@@ -17,6 +17,10 @@ bgtag1 {color: #fff;font-family: arial;font-size: 8px;letter-spacing: 2px;border
 .iconsn1 {border: 1px solid var(--neutralDark);height: 55px;margin-right: 10px;object-fit: cover;padding: 6px;transition: .8s;width: 55px;}
 maj1 {display: inline-flex;font-family: 'arial black';font-size: 25px;text-align: center;margin-left: -3px;float: left;padding: 20px;line-height: 50%;color: var(--neutralDark);}
 
+.postimg:hover {opacity: 0.3;}.postimgtl {width: 320px; height: 320px; PADDING: 3px;object-fit: cover;transition-duration: 0.5s;} 
+.postimgtl:hover { opacity: 0.3;  }
+.instacompost {color: var(--textColorAccent);height: 50px;width: 313px;background-color: var(--neutral)!important;border: 1px solid white;outline: 1px solid black;padding: 13px;text-align: justify;overflow: auto;margin: 0px auto 0px;} 
+.fbordertt {width: 350px;background: var(--neutral)!important;border: 1px solid black;color: var(--textColorAccent);margin: 10px;padding: 20px 10px 10px;text-align: center;}
 
 /***FICHE*****/
 
