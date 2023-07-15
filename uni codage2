@@ -32,7 +32,7 @@ maj1 {display: inline-flex;font-family: 'arial black';font-size: 25px;text-align
 .colone1 {display: flex;flex-direction: column;align-items: center;width: 40%;height: 614px;border-left: var(--border);border-top: solid 1px var(--neutralDark);border-bottom:solid 1px var(--neutralDark);padding: 20px;border-right: none;background-color: var(--neutral);}
 .colone2 {display: flex;flex-direction: column;align-items: center;width: 60%;height: 614px;border-right: var(--border);border-left:solid 1px var(--neutralDark);border-top:solid 1px var(--neutralDark);background-color: var(--neutral);border-bottom:solid 1px var(--neutralDark);padding: 20px;text-align: justify;}
 .img_wrapper {position:relative;overflow: hidden;}
-.img_content {opacity:0;transition: .25s;position: absolute;inset: 0;border: solid 1px black;background: rgb(255, 255, 255);}
+.img_content {text-align: justify;padding: 5px;overflow: auto;opacity:0;transition: .25s;position: absolute;inset: 0;border: solid 1px black;background: rgb(255, 255, 255);}
 .img_content:hover{opacity:1;}
 .quote {width: 100%;height: 44px; font-size: 12px;margin-top: 13px;color: var(--neutralDark);overflow: auto;text-align: justify;padding-right: 20px;}
 .basics {width: 100%;height: 300px;border: solid 1px black;background-color: var(--contrast);padding: 20px;overflow: auto;font-size: var(--little-size);}
