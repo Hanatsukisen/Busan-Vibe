@@ -10,7 +10,7 @@ sstitref {font-family: roboto,sans-serif;font-size: 7px;-webkit-background-clip:
 .cominsta{color: var(--textColorAccent);height: 50px;width: 325px;background-color: var(--neutral);padding: 13px;overflow: auto;border-right: var(--border);border-left: var(--border);border-bottom: var(--border);border-top: 1px solid var(--neutralDark);}
 .smsback2{color: var(--textColorAccent);height: 84px;width: 325px;border-top: var(--border);border-right: var(--border);background-color: var(--neutral)!important;border-left: var(--border);margin: auto;}
 
-.fondrp2{color: var(--textColorAccent);text-align: justify;width: 380px;padding: 40px;background: var(--neutral);border: var(--border);margin:auto;}
+.fondrp2{color: var(--textColorAccent);text-align: justify;width: 380px;padding: 40px;background: var(--FAM-textareaBackground);border: var(--border);margin:auto;}
 r1 {font-family: 'arial black';font-size: 25px;background-image: var(--gradient1);color: transparent;-webkit-background-clip: text;}
 r22 {font-family: 'arial black';letter-spacing: 1px;text-transform: uppercase;font-size: 9px;color: var(--neutralDark);}
 bgtag1 {color: #fff;font-family: arial;font-size: 8px;letter-spacing: 2px;border-bottom: 1px solid #fff;margin-right: 5px;background-image: var(--gradient1);padding: 4px;border: var(--border);text-transform: uppercase;}
